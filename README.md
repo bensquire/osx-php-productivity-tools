@@ -28,7 +28,10 @@ IDEs:
 - Netbeans - https://netbeans.org/
 - Aptana - http://www.aptana.com/
 - Zend Studio - http://www.zend.com/en/products/studio
-
+- CodeKit - https://incident57.com/codekit/
+- phpDesigner - http://www.mpsoftware.dk/phpdesigner.php
+- Komodo - http://komodoide.com/
+- RapidPHP - http://www.rapidphpeditor.com/
 
 Unit Testing:
 =============
@@ -50,3 +53,7 @@ File Upload / Management:
 Browser Testing:
 ================
 - IEVMS - https://github.com/xdissent/ievms
+
+Uninstall Tools:
+================
+- AppCleaner - http://www.freemacsoft.net/appcleaner/
