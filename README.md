@@ -6,6 +6,15 @@ Virtualised Environment:
 - VirtualBox	- https://www.virtualbox.org/
 - Vagrant -	https://www.vagrantup.com/
 - Vagrant Manager	- http://vagrantmanager.com/
+- Docker - http://www.docker.com/
+- boot2docker - http://boot2docker.io/
+- rkt - https://github.com/coreos/rkt
+
+Image Optimisation:
+===================
+- ImageOptim - https://imageoptim.com/
+- ImageAlpha - http://pngmini.com/
+- SVGCleaner - http://sourceforge.net/projects/svgcleaner/
 
 Environment Management:
 =======================
@@ -53,6 +62,9 @@ File Upload / Management:
 Browser Testing:
 ================
 - IEVMS - https://github.com/xdissent/ievms
+- Chrome - http://www.google.com/chrome/
+- Firefox - https://www.mozilla.org/en-GB/firefox/
+- Opera - http://www.opera.com/
 
 Uninstall Tools:
 ================
