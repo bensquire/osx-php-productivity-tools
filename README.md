@@ -25,6 +25,7 @@ Database Administration:
 ========================
 - MongoHub - https://github.com/jeromelebel/MongoHub-Mac
 - Sequelpro - http://www.sequelpro.com/
+- Induction - https://github.com/Induction/Induction
 
 SourceCode Managment:
 ========================
@@ -69,3 +70,28 @@ Browser Testing:
 Uninstall Tools:
 ================
 - AppCleaner - http://www.freemacsoft.net/appcleaner/
+
+Command Line Configuration:
+===========================
+- Oh My Zsh - https://github.com/robbyrussell/oh-my-zsh
+
+Random:
+=======
+- LittleIpsum - http://littleipsum.com/
+- Flux - https://justgetflux.com/
+- Slicy - http://macrabbit.com/slicy/
+- Icon Slate - http://www.kodlian.com/apps/icon-slate
+
+l18n:
+=====
+- Poedit - http://poedit.net/
+
+Sass/Less Compilation:
+======================
+- Koala - http://koala-app.com/
+
+Window Management:
+==================
+- Spectacle - http://spectacleapp.com/
+- ShiftIt - https://github.com/fikovnik/ShiftIt
+- Divvy - http://mizage.com/divvy/
