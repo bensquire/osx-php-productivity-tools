@@ -15,6 +15,7 @@ Image Optimisation:
 - ImageOptim - https://imageoptim.com/
 - ImageAlpha - http://pngmini.com/
 - SVGCleaner - http://sourceforge.net/projects/svgcleaner/
+- Pngyu - http://nukesaq88.github.io/Pngyu/
 
 Environment Management:
 =======================
