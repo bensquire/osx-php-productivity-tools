@@ -72,9 +72,10 @@ Uninstall Tools:
 ================
 - AppCleaner - http://www.freemacsoft.net/appcleaner/
 
-Command Line Configuration:
+Command Line Tool:
 ===========================
 - Oh My Zsh - https://github.com/robbyrussell/oh-my-zsh
+- HTTPIE - https://github.com/jkbrzt/httpie
 
 Random:
 =======
